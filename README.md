@@ -26,3 +26,6 @@ Here are some screenshots:
 - These show the triple shot buff, and its activated form:
 ![triplebuff](https://user-images.githubusercontent.com/88876460/173345707-21122d35-3178-4242-a8a4-71263bb0484d.png) ![tripleshot](https://user-images.githubusercontent.com/88876460/173345737-e7e3f184-9be2-450d-bd7e-5a6510ca6026.png)
 
+
+
+Hope you enjoy ^^
